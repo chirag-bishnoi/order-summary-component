@@ -9,7 +9,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Links
 
-- Live Site URL: [click here]([https://your-live-site-url.com](https://chirag-bishnoi.github.io/order-summary-component/))
+- Live Site URL: [click here](https://chirag-bishnoi.github.io/order-summary-component/)
 
 ### Built with
 
